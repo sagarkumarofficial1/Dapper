@@ -1,0 +1,15 @@
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\DotNetMVC.Data.deps.json
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\DotNetMVC.Data.dll
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\DotNetMVC.Data.pdb
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\System.Security.dll
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\Internshala\DotNetMVC\DotNetMVC.Data\bin\Debug\netstandard2.0\System.Security.xml
+D:\Internshala\DotNetMVC\DotNetMVC.Data\obj\Debug\netstandard2.0\DotNetMVC.Data.csprojAssemblyReference.cache
+D:\Internshala\DotNetMVC\DotNetMVC.Data\obj\Debug\netstandard2.0\DotNetMVC.Data.AssemblyInfoInputs.cache
+D:\Internshala\DotNetMVC\DotNetMVC.Data\obj\Debug\netstandard2.0\DotNetMVC.Data.AssemblyInfo.cs
+D:\Internshala\DotNetMVC\DotNetMVC.Data\obj\Debug\netstandard2.0\DotNetMVC.Data.csproj.CopyComplete
+D:\Internshala\DotNetMVC\DotNetMVC.Data\obj\Debug\netstandard2.0\DotNetMVC.Data.dll
+D:\Internshala\DotNetMVC\DotNetMVC.Data\obj\Debug\netstandard2.0\DotNetMVC.Data.pdb
